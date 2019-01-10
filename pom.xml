@@ -11,6 +11,8 @@
     <modules>
         <module>do-factory</module>
         <module>do-factory</module>
+        <module>do-factory-method</module>
+        <module>do-adapter</module>
     </modules>
 
 
