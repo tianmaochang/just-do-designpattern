@@ -13,6 +13,9 @@
         <module>do-factory</module>
         <module>do-factory-method</module>
         <module>do-adapter</module>
+        <module>do-singleton</module>
+        <module>do-proxy</module>
+        <module>do-flyweight</module>
     </modules>
 
 
