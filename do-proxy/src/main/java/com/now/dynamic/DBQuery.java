@@ -1,10 +1,10 @@
 package com.now.dynamic;
 
 /**
+ * @description：真是主题类
  * @author TMAC
  * @version 1.00
- * @description：
- * @Date 2019/11/6
+ * @Date 2019/11/7
  */
 public class DBQuery implements IDBQuery {
     public DBQuery(){

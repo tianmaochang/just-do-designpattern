@@ -4,9 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * @description：享元工厂类
  * @author TMAC
  * @version 1.00
- * @description：
  * @Date 2019/11/7
  */
 public class ReportManagerFactory {

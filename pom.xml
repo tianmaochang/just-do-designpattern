@@ -16,6 +16,7 @@
         <module>do-singleton</module>
         <module>do-proxy</module>
         <module>do-flyweight</module>
+        <module>do-decorator</module>
     </modules>
 
 
